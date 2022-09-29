@@ -6,7 +6,7 @@ export default function EventPage() {
   }
 
   return (
-    <div>
+    <div className="bg-[#FBFAFF]">
       <div className="md:container md:px-5 md:mx-auto">
         <div className="flex flex-wrap-reverse h-full lg:h-screen items-center">
           <div className="lg:w-1/2 px-4 lg:px-20 md:px-8 py-4 w-[550px] mx-auto">
